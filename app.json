@@ -1,0 +1,18 @@
+{
+    "name": "haoduck",
+    "description": "baipiao",
+    "keywords": ["baipiao"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "dfa91ac4-20c7-4e67-b823-637047931207"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "stack": "container"
+}
